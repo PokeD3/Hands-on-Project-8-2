@@ -6,7 +6,7 @@
     Author: Douglas Faulkner
     Date:   March 5, 2023
 
-    Filename: index.htm
+    Filename: script.js
 */
 "use strict";
 //Step4
